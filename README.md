@@ -31,25 +31,27 @@ Applications I’ve contributed to in real production environments:
 
 ## 🛠 Technical Skills
 
-**Languages:** Kotlin, Java, Python, SQL  
 
-**Android:** Jetpack Compose, XML, ViewModel, LiveData, Room, Navigation Component, Material Design 3, Coroutines, Flow, Retrofit, OkHttp, Firebase Crashlytics  
+🔹 **Languages:**   Kotlin, Java, Python, SQL  
 
-**Performance & Reliability:** Startup optimization, memory profiling, LeakCanary, ANR analysis, StrictMode  
+🟦 **Android:**   Jetpack Compose, XML, ViewModel, LiveData, Room, Navigation Component, Material Design 3, Coroutines, Flow, Retrofit, OkHttp, Firebase Crashlytics  
 
-**Testing:** JUnit, Espresso, Mockito, Compose UI testing, unit & integration testing  
+📊 **Performance & Reliability:**   Startup optimization, memory profiling, LeakCanary, ANR analysis, StrictMode  
 
-**Build & CI/CD:** Gradle, modular builds, Jenkins, Play Store release automation  
+🧬 **Testing:**   JUnit, Espresso, Mockito, Compose UI testing, unit & integration testing  
 
-**Backend:** Node.js, REST APIs, PostgreSQL  
+🛠️ **Build & CI/CD:**   Gradle, modular builds, Jenkins, Play Store release automation  
 
-**Cloud & DevOps:** AWS (S3, Lambda), CI/CD, Git  
+🧱 **Backend:**   Node.js, REST APIs, PostgreSQL  
 
-**Certifications:**  
+🌐 **Cloud & DevOps:**   AWS (S3, Lambda), CI/CD, Git  
+
+🏅 **Certifications:**  
 AWS Certified Solutions Architect – Associate  
-Credential Verification: https://cp.certmetrics.com/amazon/en/public/verify/credential/779f06a712464bc7a8b8c83a28bb434f  
+🔗 https://cp.certmetrics.com/amazon/en/public/verify/credential/779f06a712464bc7a8b8c83a28bb434f  
 
-**Cross-Platform:** Flutter, React Native  
+🔀 **Cross-Platform:**   Flutter, React Native  
+
 
 ---
 
