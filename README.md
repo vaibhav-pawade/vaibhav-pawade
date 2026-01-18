@@ -31,69 +31,25 @@ Applications I’ve contributed to in real production environments:
 
 ## 🛠 Technical Skills
 
-### Languages
-- Kotlin
-- Java
-- Python
-- SQL
+**Languages:** Kotlin, Java, Python, SQL  
 
-### Android
-- Jetpack Compose
-- XML layouts
-- ViewModel & LiveData
-- Room
-- Navigation Component
-- Material Design 3
-- Multi-module architecture
-- Lifecycle-aware components
+**Android:** Jetpack Compose, XML, ViewModel, LiveData, Room, Navigation Component, Material Design 3, Coroutines, Flow, Retrofit, OkHttp, Firebase Crashlytics  
 
-### Concurrency & State
-- Kotlin Coroutines
-- Flow, StateFlow, SharedFlow
+**Performance & Reliability:** Startup optimization, memory profiling, LeakCanary, ANR analysis, StrictMode  
 
-### Networking & Data
-- Retrofit
-- OkHttp
-- REST APIs
-- JSON
-- Local caching with Room
-- Pagination
+**Testing:** JUnit, Espresso, Mockito, Compose UI testing, unit & integration testing  
 
-### Performance & Reliability
-- Startup optimization
-- Memory profiling
-- LeakCanary
-- ANR analysis
-- StrictMode
-- Firebase Crashlytics
+**Build & CI/CD:** Gradle, modular builds, Jenkins, Play Store release automation  
 
-### Testing
-- JUnit
-- Espresso
-- Mockito
-- Compose UI testing
-- Unit & integration testing
+**Backend:** Node.js, REST APIs, PostgreSQL  
 
-### Build & CI/CD
-- Gradle
-- Modular builds
-- Jenkins
-- Play Store release automation
+**Cloud & DevOps:** AWS (S3, Lambda), CI/CD, Git  
 
-### Cross-Platform & Frontend
-- Flutter
-- React Native
+**Certifications:**  
+AWS Certified Solutions Architect – Associate  
+Credential Verification: https://cp.certmetrics.com/amazon/en/public/verify/credential/779f06a712464bc7a8b8c83a28bb434f  
 
-### Backend & Cloud
-- Node.js
-- PostgreSQL
-- AWS (S3, Lambda)
-
-### Version Control & Collaboration
-- Git (GitHub, Bitbucket)
-- Code reviews
-- Agile / Scrum
-
+**Cross-Platform:** Flutter, React Native  
 
 ---
 
