@@ -29,12 +29,71 @@ Applications I’ve contributed to in real production environments:
 
 ---
 
-## 🛠 Tech Stack Snapshot
-- **Languages:** Kotlin, Java, Python, SQL  
-- **Mobile:** Android (Jetpack Compose, Room, ViewModel), Flutter, React Native  
-- **Backend:** Node.js, REST APIs, PostgreSQL  
-- **Cloud & DevOps:** AWS, CI/CD, Git  
-- **Testing:** Unit & UI testing, performance profiling  
+## 🛠 Technical Skills
+
+### Languages
+- Kotlin
+- Java
+- Python
+- SQL
+
+### Android
+- Jetpack Compose
+- XML layouts
+- ViewModel & LiveData
+- Room
+- Navigation Component
+- Material Design 3
+- Multi-module architecture
+- Lifecycle-aware components
+
+### Concurrency & State
+- Kotlin Coroutines
+- Flow, StateFlow, SharedFlow
+
+### Networking & Data
+- Retrofit
+- OkHttp
+- REST APIs
+- JSON
+- Local caching with Room
+- Pagination
+
+### Performance & Reliability
+- Startup optimization
+- Memory profiling
+- LeakCanary
+- ANR analysis
+- StrictMode
+- Firebase Crashlytics
+
+### Testing
+- JUnit
+- Espresso
+- Mockito
+- Compose UI testing
+- Unit & integration testing
+
+### Build & CI/CD
+- Gradle
+- Modular builds
+- Jenkins
+- Play Store release automation
+
+### Cross-Platform & Frontend
+- Flutter
+- React Native
+
+### Backend & Cloud
+- Node.js
+- PostgreSQL
+- AWS (S3, Lambda)
+
+### Version Control & Collaboration
+- Git (GitHub, Bitbucket)
+- Code reviews
+- Agile / Scrum
+
 
 ---
 
