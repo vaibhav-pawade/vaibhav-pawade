@@ -19,11 +19,13 @@ My core focus is Android development, complemented by hands-on experience in **a
 - **Verizon Home** — 100K+ downloads  
   https://play.google.com/store/apps/details?id=com.verizon.homeapp
 
+- **Verizon Family – Companion App** — 10M+ downloads  
+  https://play.google.com/store/apps/details?id=com.verizon.familybase.companion
+
 - **Verizon Family – Parent App** — 1M+ downloads  
   https://play.google.com/store/apps/details?id=com.verizon.familybase.parent
 
-- **Verizon Family – Companion App** — 10M+ downloads  
-  https://play.google.com/store/apps/details?id=com.verizon.familybase.companion
+
 
 ---
 
