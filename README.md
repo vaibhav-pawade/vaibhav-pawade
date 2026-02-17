@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vaibhav Pawade
 
-**Android Engineer** with 3+ years of experience building **reliable, high-performance mobile applications used by 10M+ users**.  
+**Android Engineer** with 3+ years of experience building **reliable, high-performance mobile applications used by 11M+ users**.  
 My core focus is Android development, complemented by hands-on experience in **automation, backend APIs, and cross-platform development** gained through industry internships and projects.
 
 ---
